@@ -104,3 +104,11 @@ h5.name{
     margin-top: 20px;
     letter-spacing: 0.9px;
 }
+
+.card.back-face{
+    border: none;
+}
+
+.card.back-face h6{
+    font-style: 8px;
+}
